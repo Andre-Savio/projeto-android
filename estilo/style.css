@@ -59,7 +59,8 @@ header{
  header > p{
     color: white;
     font-family: var(--fonte-padrao);
-    font-size: 1.2em;
+    font-size: 1.1em;
+    font-weight: 600;
     margin: auto;
     max-width: 600px;
     padding-bottom: 50px;
@@ -80,7 +81,7 @@ nav > a{
     color: var(--cor0);
     border-radius: 10px 25px;
     font-weight: bold;
-    padding: 10px 7px;
+    padding: 10px 15px;
     text-decoration: none;
     transition-duration: .5s;
 
