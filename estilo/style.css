@@ -62,8 +62,9 @@ header{
     font-size: 1.2em;
     margin: auto;
     max-width: 600px;
-    padding-right: 10px;
+    padding-bottom: 50px;
     padding-left: 10px;
+    padding-right: 10px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.26);
 
 }
@@ -79,7 +80,7 @@ nav > a{
     color: var(--cor0);
     border-radius: 10px 25px;
     font-weight: bold;
-    padding: 10px 2px;
+    padding: 10px 7px;
     text-decoration: none;
     transition-duration: .5s;
 
