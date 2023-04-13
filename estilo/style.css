@@ -66,8 +66,8 @@ nav {
 }
 nav > a{
     color: var(--cor0);
-    padding: 10px;
-    border-radius: 10px 0px;
+    padding: 10px 2px;
+    border-radius: 10px 25px;
     text-decoration: none;
     font-weight: bold;
     transition-duration: .5s;
